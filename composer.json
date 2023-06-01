@@ -1,5 +1,5 @@
 {
-    "name": "j/article-content-provider-bundle",
+    "name": "john9683/article-content-provider-bundle",
     "description": "Генератор контента статьи для CatCasCar",
     "type": "symfony-bundle",
     "license": "MIT",
