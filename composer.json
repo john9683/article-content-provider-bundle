@@ -1,0 +1,20 @@
+{
+    "name": "j/article-content-provider-bundle",
+    "description": "Генератор контента статьи для CatCasCar",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CatCasCar\\LmArticleContentProviderBundle\\LmArticleContentProvider": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evgenii Shulman",
+            "email": "john_9683@mail.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5"
+    }
+}
